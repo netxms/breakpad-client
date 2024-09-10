@@ -1,0 +1,13 @@
+*~
+.#*
+.*.rej
+.*~
+.~lock.*
+.DS_Store
+
+*.vcxproj.user
+
+Debug
+Release
+x64
+ARM64
